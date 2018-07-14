@@ -4,7 +4,7 @@ The userscript to enhance Google Translate
 
 ## Install
 
-Recomment [Tampermonkey] if you use Google Chrome 
+Recommend [Tampermonkey] if you use Google Chrome 
 
 If you have available userscript extension, open the script source below, it will be installed automatically.
 
