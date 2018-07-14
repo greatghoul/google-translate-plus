@@ -2,7 +2,7 @@
 // @name         Google Translate Plus
 // @namespace    https://github.com/greatghoul/google-translate-plus/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Bookmark your frequently used languages.
 // @author       greatghoul
 // @license      MIT
 // @match        https://translate.google.com/
