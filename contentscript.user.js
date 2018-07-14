@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       greatghoul
+// @license      MIT
 // @match        https://translate.google.com/
 // @grant        none
 // ==/UserScript==
